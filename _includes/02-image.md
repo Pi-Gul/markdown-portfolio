@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![the crew of Planet Express](http://www.followingthenerd.com/site/wp-content/uploads/futurama-600x338.jpg)
